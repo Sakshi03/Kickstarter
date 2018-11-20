@@ -1,0 +1,9 @@
+
+
+1. Open the source code in Visual Studio Code.
+2. To run the project use npm start in the terminal.
+3. The project will run on localhost:3000 or other terminal if port 3000 is already in use.
+4. The application consists of list of projects with other mentioned details.
+5. You can use the search box to search for the particular project by name.
+6. It also contains a location dropdown to filter the projects according to the selected location.
+ 
